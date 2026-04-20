@@ -72,7 +72,7 @@ Diploma in ICT (Application Development)
 
 ---
 
-## 📂 Featured Projects
+## 📂  Projects
 
 ### 🔹 Student Average Calculator
 
@@ -102,7 +102,7 @@ Diploma in ICT (Application Development)
 
 ---
 
-## 🧩 Reflection (STAR Method)
+## 🧩 Reflection 
 
 ### 📌 Markdown Portfolio
 
@@ -126,26 +126,14 @@ Diploma in ICT (Application Development)
 
 To become a highly skilled backend engineer specializing in enterprise systems, contributing to scalable and impactful software solutions.
 
----
-
-## 🌍 GitHub Pages
-
-🚧 Coming Soon – Live Portfolio Deployment
 
 ---
 
 ## ⚡ What I'm Currently Learning
 
-* Advanced Spring Boot (Security, JWT)
 * Microservices Architecture
 * Cloud Deployment (AWS basics)
 * Machine Learning Fundamentals (Model Optimization, Feature Engineering)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanyanit\&show_icons=true)
 
 ---
 
