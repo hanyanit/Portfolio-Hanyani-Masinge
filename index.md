@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hanyani Masinge
 
-🚀 **Backend Developer | Java & Spring Boot | Future Enterprise Engineer**
+🚀 **Backend Developer | Java & Spring Boot | Python & Django | Angular**
 
 ---
 
