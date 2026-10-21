@@ -24,6 +24,7 @@ I am an aspiring backend engineer passionate about building scalable, secure, an
 ### 🚀 Backend
 
 * Java
+* python
 * Spring Boot
 * REST API Development
 * JPA / Hibernate
