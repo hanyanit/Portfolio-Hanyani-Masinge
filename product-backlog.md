@@ -14,18 +14,16 @@ The Product Backlog follows Agile principles by allowing development work to be 
 
 | ID | User Story / Feature | Priority | Story Points | Status |
 |---|---|---|---:|---|
-| US01 | As a student, I want to create an account so that I can use the platform. | High | 5 | To Do |
-| US02 | As a student, I want to log in so that I can securely access my account. | High | 3 | To Do |
-| US03 | As a student, I want to view available bursaries and opportunities so that I can find opportunities to apply for. | High | 5 | To Do |
-| US04 | As a student, I want to search for opportunities so that I can quickly find relevant opportunities. | High | 5 | To Do |
-| US05 | As a student, I want to filter opportunities so that I can narrow the results based on my requirements. | High | 5 | To Do |
-| US06 | As a student, I want to view detailed information about an opportunity so that I can decide whether to apply. | High | 3 | To Do |
-| US07 | As a student, I want to find opportunities that match my profile so that I can identify opportunities I am more likely to qualify for. | High | 8 | To Do |
-| US08 | As a student, I want to manage my information so that my details remain up to date. | Medium | 5 | To Do |
-| US09 | As an administrator, I want to manage opportunity information so that students can access current information. | Medium | 8 | To Do |
-| US10 | As a student, I want the application to work on different screen sizes so that I can use it on different devices. | Medium | 5 | To Do |
-
-> **Note:** Story points are estimates used to represent the relative amount of effort required for each item. They should be adjusted if the actual team used different estimates.
+| US01 | As a student, I want to create an account so that I can use the platform. | High | 5 | Done |
+| US02 | As a student, I want to log in so that I can securely access my account. | High | 3 | Done |
+| US03 | As a student, I want to view available bursaries and opportunities so that I can find opportunities to apply for. | High | 5 | Done |
+| US04 | As a student, I want to search for opportunities so that I can quickly find relevant opportunities. | High | 5 | Done |
+| US05 | As a student, I want to filter opportunities so that I can narrow the results based on my requirements. | High | 5 | Done |
+| US06 | As a student, I want to view detailed information about an opportunity so that I can decide whether to apply. | High | 3 | Done |
+| US07 | As a student, I want to find opportunities that match my profile so that I can identify opportunities I am more likely to qualify for. | High | 8 | Done |
+| US08 | As a student, I want to manage my information so that my details remain up to date. | Medium | 5 | Done |
+| US09 | As an administrator, I want to manage opportunity information so that students can access current information. | Medium | 8 | Done |
+| US10 | As a student, I want the application to work on different screen sizes so that I can use it on different devices. | Medium | 5 | Done |
 
 ---
 
