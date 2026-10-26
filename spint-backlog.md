@@ -24,20 +24,18 @@ The sprint goal provided a clear direction for the development work and helped e
 
 | ID | User Story | Development Task | Priority | Status |
 |---|---|---|---|---|
-| SB01 | US01 – User Registration | Create the registration form | High | To Do |
-| SB02 | US01 – User Registration | Connect registration form to the Python backend | High | To Do |
-| SB03 | US01 – User Registration | Validate registration information | High | To Do |
-| SB04 | US02 – User Login | Create the login interface | High | To Do |
-| SB05 | US02 – User Login | Connect login functionality to the backend | High | To Do |
-| SB06 | US03 – View Opportunities | Create the opportunity listing interface | High | To Do |
-| SB07 | US03 – View Opportunities | Retrieve opportunity data from the backend | High | To Do |
-| SB08 | US04 – Search Opportunities | Create the search functionality | High | To Do |
-| SB09 | US04 – Search Opportunities | Connect search functionality to opportunity data | High | To Do |
+| SB01 | US01 – User Registration | Create the registration form & interface | High | Done |
+| SB02 | US01 – User Registration | Connect registration form to the Python backend | High | Done |
+| SB03 | US01 – User Registration | Validate registration information | High | Done |
+| SB04 | US02 – User Login | Create the login form & interface | High | Done |
+| SB05 | US02 – User Login | Connect login functionality to the backend | High | Done |
+| SB06 | US03 – View Opportunities | Create the opportunity listing interface | High | Done |
+| SB07 | US03 – View Opportunities | Retrieve opportunity data from the backend | High | Done |
+| SB08 | US04 – Search Opportunities | Create the search functionality | High | Done |
+| SB09 | US04 – Search Opportunities | Connect search functionality to opportunity data | High | Done |
 | SB10 | US05 – Filter Opportunities | Implement opportunity filtering | High | To Do |
-| SB11 | US06 – Opportunity Details | Create the opportunity details view | High | To Do |
-| SB12 | US10 – Responsive Interface | Test the application on different screen sizes | Medium | To Do |
-
-> **Important:** The task statuses above are examples. They should be changed to match the actual progress of your project.
+| SB11 | US06 – Opportunity Details | Create the opportunity details view | High | Done |
+| SB12 | US10 – Responsive Interface | Test the application on different screen sizes | Medium | Done |
 
 ---
 
