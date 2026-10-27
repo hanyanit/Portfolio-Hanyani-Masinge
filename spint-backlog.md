@@ -136,9 +136,10 @@ The following evidence can be included to demonstrate how the Sprint Backlog was
 
 ### Evidence Screenshot 3
 
-**[Insert screenshot of a completed Opportunity Connect feature here]**
+**<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/de4234bb-0566-41af-8f00-9d0594e15b3f" />
+**
 
-*This screenshot demonstrates the implementation of work selected for the sprint.*
+**This screenshot demonstrates the implementation of work selected for the sprint. The bursaries and vacation work opportunities uploaded during the sprint are now successfully displayed on the listings page, allowing students to view and access available opportunities in one central location.**
 
 ### Evidence Screenshot 4
 
