@@ -323,9 +323,10 @@ The task breakdown demonstrates how larger user requirements were divided into s
 
 ### Evidence 3 — Implemented Features
 
-Screenshots of implemented Opportunity Connect features provide evidence that the user stories were translated into working functionality.
+Screenshot demonstrating the student profile functionality, where users can view and manage their personal information used to support personalised opportunity matching.
 
-> **Insert screenshots of relevant Opportunity Connect features here.**
+> **<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/aaaedb33-a095-4745-9328-8d30a6fc5140" />
+**
 
 ---
 
