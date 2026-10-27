@@ -97,6 +97,25 @@ Diploma in ICT (Application Development)
 
 ---
 
+## 📋 Agile Portfolio — Opportunity Connect
+
+As part of the development of Opportunity Connect, I applied Agile software development practices to plan, develop, manage and reflect on the project.
+
+The following sections provide evidence of my Agile development process, including my team charter, user stories, product backlog, sprint backlog and Agile logbook.
+
+### 📑 Agile Evidence
+
+- [Agile Team Charter](agile-team-charter.md)
+- [User Stories and Tasks](user-stories.md)
+- [Product Backlog](product-backlog.md)
+- [Sprint Backlog](sprint-backlog.md)
+- [Agile Logbook](agile-logbook.md)
+
+### 🔗 Project Evidence
+
+- [Opportunity Connect GitHub Repository](https://github.com/hanyanit/OppCo-main)
+- [Opportunity Connect Live Application](https://oppco.co.za)
+
 ## 🎥 Mock Interview
 
 [![Watch Mock Interview](https://img.youtube.com/vi/b1PRAe_33ak/0.jpg)](https://www.youtube.com/watch?v=b1PRAe_33ak)
