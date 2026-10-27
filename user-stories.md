@@ -315,9 +315,10 @@ The documented user stories demonstrate how the requirements of Opportunity Conn
 
 ### Evidence 2 — Task Breakdown
 
-The task breakdown demonstrates how larger user requirements were divided into smaller development activities.
+Initial OppCo GitHub Repository Structure — Screenshot showing the initial repository structure of the OppCo project, including the organisation of the frontend, backend, and supporting project files.
 
-> **Insert screenshot of your Trello cards/tasks here.**
+> **<img width="2878" height="1800" alt="image" src="https://github.com/user-attachments/assets/72cd6d4c-e0a6-4037-98a3-13e77e5db3c5" />
+**
 
 ---
 
