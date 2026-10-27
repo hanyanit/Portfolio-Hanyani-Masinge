@@ -260,23 +260,13 @@ The following evidence can be added to demonstrate my Agile development process.
 
 ## Evidence 1 — Product Backlog
 
-**[Insert Product Backlog screenshot here]**
+**<img width="1280" height="790" alt="image" src="https://github.com/user-attachments/assets/5490a7a3-5fcb-43a1-99df-4a64c831b732" />
+**
 
 This evidence demonstrates how project requirements were organised and prioritised.
 
-## Evidence 2 — Sprint Backlog
 
-**[Insert Sprint Backlog screenshot here]**
-
-This evidence demonstrates how selected work was broken down into smaller development tasks.
-
-## Evidence 3 — Project Management Board
-
-**[Insert Trello/project management screenshot here]**
-
-This evidence demonstrates how development tasks were tracked.
-
-## Evidence 4 — GitHub Repository
+## Evidence 4 — GitHub Repository Link
 
 **[Insert GitHub repository screenshot here]**
 
@@ -284,7 +274,8 @@ This evidence demonstrates the development and version-control process used duri
 
 ## Evidence 5 — Opportunity Connect Application
 
-**[Insert screenshot of the Opportunity Connect application here]**
+**<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fb1edcc1-f27c-4f6c-8087-31568056e80c" />
+**
 
 This evidence demonstrates the working software produced as a result of the development process.
 
