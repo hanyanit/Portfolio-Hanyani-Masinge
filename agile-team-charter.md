@@ -137,7 +137,8 @@ The following artefacts can be used as evidence of the Agile Team Charter and th
 
 GitHub provides evidence of the project's source-code management and development history.
 
-> **Insert GitHub repository screenshot here**
+> **<img width="2878" height="1800" alt="image" src="https://github.com/user-attachments/assets/65047a4d-a5cd-42c1-b69a-8aa40e77d7d2" />
+**
 
 ---
 
@@ -145,9 +146,10 @@ GitHub provides evidence of the project's source-code management and development
 
 **Application Screenshot**
 
-Screenshots of the completed application provide evidence that the Agile development process resulted in a working software product.
+Screenshots of the completed application which provide evidence that the Agile development process resulted in a working software product.
 
-> **Insert Opportunity Connect screenshot here**
+> **<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b447cd29-9966-4adc-be8a-393d3dfc191d" />
+**
 
 ---
 
