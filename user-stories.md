@@ -308,7 +308,8 @@ The following artefacts can be included as evidence for the User Stories and Tas
 
 The documented user stories demonstrate how the requirements of Opportunity Connect were described from the perspective of the intended users.
 
-> **Insert screenshot or document showing your user stories here.**
+> **<img width="974" height="1280" alt="image" src="https://github.com/user-attachments/assets/96278a6a-fb29-4449-9258-41631f45c785" />
+**
 
 ---
 
