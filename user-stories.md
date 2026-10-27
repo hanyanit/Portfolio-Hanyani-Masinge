@@ -326,7 +326,8 @@ Initial OppCo GitHub Repository Structure — Screenshot showing the initial rep
 
 Screenshot demonstrating the student profile functionality, where users can view and manage their personal information used to support personalised opportunity matching.
 
-> **<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/aaaedb33-a095-4745-9328-8d30a6fc5140" />
+> **<<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca771779-51b7-4d0d-8e71-838b3786193c" />
+
 **
 
 ---
