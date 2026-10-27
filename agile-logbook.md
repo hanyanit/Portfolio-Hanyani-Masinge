@@ -266,26 +266,27 @@ The following evidence can be added to demonstrate my Agile development process.
 This evidence demonstrates how project requirements were organised and prioritised.
 
 
-## Evidence 4 — GitHub Repository Link
+## Evidence 2 — GitHub Repository Link
 
-**[Insert GitHub repository screenshot here]**
+**(https://github.com/hanyanit/OppCo-main)**
 
 This evidence demonstrates the development and version-control process used during the project.
 
-## Evidence 5 — Opportunity Connect Application
+## Evidence 3 — Opportunity Connect Application
 
 **<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fb1edcc1-f27c-4f6c-8087-31568056e80c" />
 **
 
 This evidence demonstrates the working software produced as a result of the development process.
 
-## Evidence 6 — Development Progress
+## Evidence 4 — Development Progress
 
-**[Insert relevant development screenshot, commit history or feature screenshot here]**
+**<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/45f3cd77-8a46-4984-a9c9-017423e780cf" />
+**
 
-This evidence demonstrates progress made during development.
+This evidence demonstrates progress made during development. The OppCo landing page introduces the platform and highlights the upcoming AI application feature, which will assist students by applying for suitable opportunities on their behalf based on their personalised profile and eligibility.
 
----
+--
 
 # 4. Overall Reflection
 
