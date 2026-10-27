@@ -106,28 +106,13 @@ This demonstrates how Agile development breaks larger requirements into manageab
 
 ---
 
-## 6. Evidence
 
-The following evidence can be included in my portfolio to demonstrate the creation and use of the Product Backlog:
+### Evidence Screenshot 
 
-- Screenshot of the Product Backlog.
-- Screenshot of the Trello board or project management tool used.
-- Screenshot showing prioritised tasks.
-- Screenshot of completed backlog items.
-- GitHub repository showing development work related to backlog items.
-- Screenshots of implemented Opportunity Connect features.
+**<img width="2690" height="1660" alt="image" src="https://github.com/user-attachments/assets/02206fd6-9968-488b-b913-73fbbd0c11ec" />
+**
 
-### Evidence Screenshot 1
-
-**[Insert screenshot of the Product Backlog here]**
-
-*This screenshot demonstrates how the development requirements were organised and prioritised.*
-
-### Evidence Screenshot 2
-
-**[Insert screenshot of the Trello/project management board here]**
-
-*This screenshot demonstrates how backlog items were managed during development.*
+*OppCo product backlog on clockify based on the project’s user stories and backlog records. The backlog demonstrates the prioritisation of requirements, allocation of story points, and tracking of development progress*
 
 ---
 
