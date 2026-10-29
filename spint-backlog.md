@@ -122,30 +122,13 @@ The Definition of Done helped maintain a consistent standard for completed work.
 
 The following evidence can be included to demonstrate how the Sprint Backlog was used:
 
-### Evidence Screenshot 1
 
-**[Insert screenshot of the Sprint Backlog here]**
-
-*This screenshot demonstrates the tasks selected for the sprint and their current status.*
-
-### Evidence Screenshot 2
-
-**[Insert screenshot of the Trello/project management board here]**
-
-*This screenshot demonstrates how sprint tasks were organised and tracked.*
-
-### Evidence Screenshot 3
+### Evidence Screenshot 
 
 **<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/de4234bb-0566-41af-8f00-9d0594e15b3f" />
 **
 
 **This screenshot demonstrates the implementation of work selected for the sprint. The bursaries and vacation work opportunities uploaded during the sprint are now successfully displayed on the listings page, allowing students to view and access available opportunities in one central location.**
-
-### Evidence Screenshot 4
-
-**[Insert GitHub screenshot or commit history here]**
-
-*This evidence demonstrates the development work completed during the sprint.*
 
 ---
 
