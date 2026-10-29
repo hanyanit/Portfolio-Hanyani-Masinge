@@ -302,7 +302,7 @@ This helped ensure that development activities remained focused on providing fun
 
 # Evidence
 
-The following artefacts can be included as evidence for the User Stories and Tasks section.
+
 
 ### Evidence 1 — User Stories
 
