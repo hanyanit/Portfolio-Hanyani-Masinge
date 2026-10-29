@@ -308,7 +308,7 @@ This helped ensure that development activities remained focused on providing fun
 
 The documented user stories demonstrate how the requirements of Opportunity Connect were described from the perspective of the intended users.
 
-> **<img width="974" height="1280" alt="image" src="https://github.com/user-attachments/assets/96278a6a-fb29-4449-9258-41631f45c785" />
+**<img width="974" height="1280" alt="image" src="https://github.com/user-attachments/assets/96278a6a-fb29-4449-9258-41631f45c785" />
 **
 
 ---
@@ -317,7 +317,7 @@ The documented user stories demonstrate how the requirements of Opportunity Conn
 
 Initial OppCo GitHub Repository Structure — Screenshot showing the initial repository structure of the OppCo project, including the organisation of the frontend, backend, and supporting project files.
 
-> **<img width="2878" height="1800" alt="image" src="https://github.com/user-attachments/assets/72cd6d4c-e0a6-4037-98a3-13e77e5db3c5" />
+**<img width="2878" height="1800" alt="image" src="https://github.com/user-attachments/assets/72cd6d4c-e0a6-4037-98a3-13e77e5db3c5" />
 **
 
 ---
@@ -326,7 +326,7 @@ Initial OppCo GitHub Repository Structure — Screenshot showing the initial rep
 
 Screenshot demonstrating the student profile functionality, where users can view and manage their personal information used to support personalised opportunity matching.
 
-> **<<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca771779-51b7-4d0d-8e71-838b3786193c" />
+ **<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca771779-51b7-4d0d-8e71-838b3786193c" />
 
 **
 
